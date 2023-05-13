@@ -1,2 +1,2 @@
 ## Welcome
-### Headquarters
+### HQ
