@@ -1,5 +1,5 @@
 
-# Mars Preserve Reserach Foundation
+# Mars Preserve Research Foundation
 
 Howdy folks thanks for checking into the repo
 let me know what could I do better or leave a message
