@@ -1,8 +1,9 @@
-# 🌌 Mars Preserve Token (MPT)
+# 🌌 Mars Preserve Token (MPT) Digital Asset Holdings
 
 ## Overview
 
-The **Mars Preserve Token (MPT)** is a blockchain-based initiative aimed at funding and supporting efforts to preserve and explore Mars. This token is designed to incentivize contributions to Mars-related projects and create a decentralized ecosystem for collaboration funding the Mars Preserve Research Foundation.
+The **Mars Preserve Token (MPT)** is a blockchain-based initiative and project seeking to focus on funding and supporting efforts to preserve and explore Mars. 
+This token is designed to incentivize contributions to Mars-related projects and create a decentralized ecosystem for collaboration funding the Mars Preserve Research Foundation.
 
 ## Features
 
