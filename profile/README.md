@@ -1,115 +1,140 @@
+# 🌌 Mars Preserve Token (MPT)
 
-# Mars Preserve Research Foundation
+## Overview
 
-Howdy folks thanks for checking into the repo
-let me know what could I do better or leave a message
-for myself at a later date.
+The **Mars Preserve Token (MPT)** is a blockchain-based initiative aimed at funding and supporting efforts to preserve and explore Mars. This token is designed to incentivize contributions to Mars-related projects and create a decentralized ecosystem for collaboration funding the Mars Preserve Research Foundation.
 
-With that being stated please have a look around
-and interact with any of the software you choose.
+## Features
 
-Use at own risk. year 2025
+- **Decentralized Governance**: Token holders can vote on Mars-related projects and initiatives.
+- **Smart Contracts**: Built on **Ethereum** using **Solidity** for secure and transparent transactions.
+- **Sustainability**: A portion of every transaction is allocated to Mars preservation and exploration funds.
 
-## Table of Contents
+## Tokenomics
 
-- [Description](#description)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+- **Token Name**: Mars Preserve Token
+- **Symbol**: MPT
+- **Total Supply**: 1,000,000,000 MPT
+- **Distribution**:
+  - 50% for public sale
+  - 20% for development and research
+  - 15% for marketing and partnerships
+  - 10% for the Mars Preservation Fund
+  - 5% for the team
 
-## Description
+## Roadmap
 
-At the Mars Preserve Research Foundation
-we strive to do good, while providing a safe
-and effective routine that gets the job done
-in terms of growing and farming making any 
-adjustments that are needed and or modifications.
+1. **Phase 1**: Token Development
+   - Smart contract creation and deployment.
+   - Initial token distribution.
 
-# Welcome 🍊
+2. **Phase 2**: Community Building
+   - Launch marketing campaigns.
+   - Build partnerships with Mars-focused organizations.
 
-Welcome to the DIY farming project, designed for enthusiasts who want to grow plants in a controlled environment.
+3. **Phase 3**: Governance and Expansion
+   - Enable decentralized governance.
+   - Expand the ecosystem with Mars-related dApps.
 
-This project focuses on using a climate-controlled connex box to support plant growth by managing key environmental variables such as:
+## How to Get Involved
 
-- **Humidity**
-- **Condensation**
-- **Temperature**
+- **Developers**: Contribute to the smart contract and dApp development.
 
-By optimizing these variables, healthy and consistent plant growth can be achieved.
+- **Investors**: Participate in the token sale to support the initiative.
 
----
+- **Community Members**: Join discussions and vote on governance proposals.
 
-## Farming Solutions
+## Privacy Policy
 
-### Auto-Growth Climate Box
+- **Data Collection**: We do not collect personal data unless explicitly provided by users (e.g., during token purchases or governance participation).
 
-Our vision is to create climate-controlled growing solutions using modified connex boxes. These systems are designed to provide:
+- **Blockchain Transparency**: All transactions are recorded on the blockchain and are publicly accessible. However, no personal information is tied to these transactions unless voluntarily disclosed.
 
-- **Sustainable Growth Solutions**: Supporting long-term, eco-friendly farming practices.
-- **Results-Driven Improvements**: Iterative testing and refinement of systems.
-- **Data-Driven Insights**: Running test cases to improve efficiency and outcomes.
+- **Third-Party Services**: Any third-party services used in this project (e.g., wallets, exchanges) are subject to their respective privacy policies.
 
-These systems are ideal for growing food in controlled environments, enabling farmers to experiment and innovate.
+- **User Responsibility**: Users are responsible for securing their private keys and wallet credentials. We are not liable for any loss of funds due to user negligence.
 
----
+## Terms of Service
 
-## Sustainable Farming with the Mars Preserve Foundation
+By using the Mars Preserve Token (MPT) and participating in this project, you agree to the following terms:
 
-At the Mars Preserve Foundation, we develop advanced farming systems to help farmers conduct experiments and post-production tests. Our climate-engineered connex boxes are designed to promote sustainable growth and empower farmers to achieve their goals.
+1. **No Financial Advice**: This project does not provide financial or investment advice. Users should conduct their own research before participating.
 
----
+2. **Compliance**: Users are responsible for complying with local laws and regulations regarding cryptocurrency usage and transactions.
 
-## Learning Roadmap
+3. **No Liability**: We are not liable for any losses, damages, or issues arising from the use of the Mars Preserve Token or related services.
 
-"Growing Forward" is our philosophy—finding the space and time to farm effectively. Connex climate growth boxes allow farmers to:
+4. **Token Usage**: The Mars Preserve Token is intended for supporting Mars-related initiatives and does not guarantee any financial returns.
 
-- Grow crops in confined, controlled spaces.
-- Manage the growth cycle of plants with precision.
-- Use tools and data-driven insights to meet farming objectives.
+5. **Changes to Terms**: We reserve the right to update these terms at any time. Continued use of the token or services constitutes acceptance of the updated terms.
 
-By combining innovation and sustainability, we aim to make farming more accessible and efficient.
+### Project Details
 
----
+The Mars Preserve Token (MPT) project is dedicated to supporting Mars exploration and preservation efforts through blockchain technology. Key details include:
 
-## Test Case Workflow
+- **Mission**: To create a decentralized ecosystem that funds Mars-related research and initiatives.
 
-1. Build the system.
-2. Manage project overhead.
-3. Optimize the workspace.
-4. Achieve profitability.
+- **Technology**: Built on the **Ethereum** blockchain using **Solidity** for smart contracts.
+- **Focus Areas**:
+  - Funding Mars preservation projects.
+  - Supporting research for sustainable Mars exploration.
+  - Building a community of contributors and enthusiasts.
 
----
+### Services
+The Mars Preserve Token project offers the following services:
+1. **Decentralized Governance**:
+   - Token holders can vote on proposals for Mars-related projects and initiatives.
+   - Governance decisions are executed transparently through smart contracts.
 
-© MIT License 2025
+2. **Funding Platform**:
+   - A portion of transaction fees is allocated to the Mars Preservation Fund.
+   - Enables direct contributions to Mars-focused organizations and research.
 
+3. **Educational Resources**:
+   - Provides resources and guides for understanding blockchain technology and its applications in space exploration.
+   - Hosts webinars and discussions on Mars-related topics.
 
-## Installation
-
-This is how you install the project
-
-> Bash code python language
-```py
-
-# Example Python usage
-import your_project
-
-# show output of python project
-result = your_project.some_function(input_data)
-print(result)
+4. **Community Engagement**:
+   - Builds a global community of developers, researchers, and enthusiasts.
+   - Encourages collaboration through open-source contributions and governance participation.
 
 
-```
+## Participation and Support
 
-## Contributing
+We welcome everyone to join the Mars Preserve Token (MPT) initiative and contribute to the mission of preserving and exploring Mars. Here’s how you can participate and support us.
 
-- Open a pull request.
+### How to Participate
 
-## License
+1. **Join the Community**:
+   - Follow us on GitHub and participate in discussions.
+   - Share your ideas and feedback to help shape the project.
 
-MIT 2025 Mars Preserve Research Foundation
+2. **Contribute to Development**:
+   - Developers can contribute to smart contract development, dApp creation, and other technical aspects of the project.
+   - Submit pull requests to improve the codebase or propose new features.
+
+3. **Vote on Proposals**:
+   - Token holders can participate in decentralized governance by voting on Mars-related initiatives and funding proposals.
+
+4. **Spread the Word**:
+   - Share the project with your network to help grow the community and raise awareness about Mars preservation efforts.
+
+### How to Support
+1. **Purchase Tokens**:
+   - Participate in the token sale to support the Mars Preserve Research Foundation and gain voting rights in the ecosystem.
+
+2. **Donate**:
+   - Make direct contributions to the Mars Preserve Research Foundation to support ongoing research and exploration efforts.
+
+3. **Collaborate**:
+   - Partner with us to create innovative solutions for Mars exploration and sustainability.
+   - Organizations and researchers can collaborate on Mars-focused projects funded by the ecosystem.
+
+4. **Volunteer**:
+   - Offer your skills and expertise to help with community building, marketing, or educational initiatives.
 
 ## Contact
 
-@X/coderad32 Cody James C.J. with comments or suggestions feedback improvements.
+For more information, about the project and research foundation I am starting, visit [GitHub.com/MarsPreserve](https://github.com/marspreserve) or reach out to Cody Bunnell at @Coderad32 via Github.com
+
+**Made with ❤️ by [Coderad32](https://github.com/Coderad32)** Founder of Mars Preserve Research Foundation all rights reserved 2025-BeyondTheViewport
