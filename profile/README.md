@@ -49,7 +49,38 @@ This token is designed to incentivize contributions to Mars-related projects and
   - 20% for development and research
   - 15% for marketing and partnerships
   - 10% for the Mars Preservation Fund
-  - 5% for the team
+  - 5% for the team 
+    
+### Project Details
+
+The Mars Preserve Token (MPT) project is dedicated to supporting Mars exploration and preservation efforts through blockchain technology. Key details include:
+
+- **Mission**: To create a decentralized ecosystem that funds Mars-related research and initiatives.
+
+- **Technology**: Built on the **Ethereum** blockchain using **Solidity** for smart contracts.
+- **Focus Areas**:
+  - Funding Mars preservation projects.
+  - Supporting research for sustainable Mars exploration.
+  - Building a community of contributors and enthusiasts.
+
+### Services
+The Mars Preserve Token project offers the following services:
+1. **Decentralized Governance**:
+   - Token holders can vote on proposals for Mars-related projects and initiatives.
+   - Governance decisions are executed transparently through smart contracts.
+
+2. **Funding Platform**:
+   - A portion of transaction fees is allocated to the Mars Preservation Fund.
+   - Enables direct contributions to Mars-focused organizations and research.
+
+3. **Educational Resources**:
+   - Provides resources and guides for understanding blockchain technology and its applications in space exploration.
+   - Hosts webinars and discussions on Mars-related topics.
+
+4. **Community Engagement**:
+   - Builds a global community of developers, researchers, and enthusiasts.
+   - Encourages collaboration through open-source contributions and governance participation.
+
 # Understanding Polygon Network, Layer 2, and Gas Fees
 
 ## What is the Polygon Network?
@@ -205,37 +236,6 @@ By using the Mars Preserve Token (MPT) and participating in this project, you ag
 4. **Token Usage**: The Mars Preserve Token is intended for supporting Mars-related initiatives and does not guarantee any financial returns.
 
 5. **Changes to Terms**: We reserve the right to update these terms at any time. Continued use of the token or services constitutes acceptance of the updated terms.
-
-### Project Details
-
-The Mars Preserve Token (MPT) project is dedicated to supporting Mars exploration and preservation efforts through blockchain technology. Key details include:
-
-- **Mission**: To create a decentralized ecosystem that funds Mars-related research and initiatives.
-
-- **Technology**: Built on the **Ethereum** blockchain using **Solidity** for smart contracts.
-- **Focus Areas**:
-  - Funding Mars preservation projects.
-  - Supporting research for sustainable Mars exploration.
-  - Building a community of contributors and enthusiasts.
-
-### Services
-The Mars Preserve Token project offers the following services:
-1. **Decentralized Governance**:
-   - Token holders can vote on proposals for Mars-related projects and initiatives.
-   - Governance decisions are executed transparently through smart contracts.
-
-2. **Funding Platform**:
-   - A portion of transaction fees is allocated to the Mars Preservation Fund.
-   - Enables direct contributions to Mars-focused organizations and research.
-
-3. **Educational Resources**:
-   - Provides resources and guides for understanding blockchain technology and its applications in space exploration.
-   - Hosts webinars and discussions on Mars-related topics.
-
-4. **Community Engagement**:
-   - Builds a global community of developers, researchers, and enthusiasts.
-   - Encourages collaboration through open-source contributions and governance participation.
-
 
 ## Participation and Support
 
