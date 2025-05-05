@@ -37,9 +37,12 @@ This token is designed to incentivize contributions to Mars-related projects and
 - **Symbol**: MPT
 - **Total Supply**: 1,000,000,000 MPT requested allocation of units
 
-- **Distribution**: Available when project is initialized 
-  - 50% for public sale blockchain public network utility 
-  - 50% for private sale peer 2 peer
+- **Distribution**: Available when project is initialized
+  
+  - 25% for public sale blockchain public network utility 
+  - 25% for private sale peer 2 peer
+  - 25% for RND (R N D)
+  - 25% for Taxes
     
 ### Project Details
 
