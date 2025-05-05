@@ -193,10 +193,8 @@ Digital assets are electronic files or tokens that hold value and can be owned o
 
 Examples include:
 
-- Cryptocurrencies like Bitcoin and Ethereum.
-
-- Non-Fungible Tokens (NFTs) representing unique digital items.
-
+- Bitcoin Without the crazy mathematics. Purpose Built. Research Development.
+- Non-Fungible Tokens (NFTs) representing unique digital items. See Ref AutoGrowBoxes
 - Digital representations of real-world assets, such as tokenized real estate or art. Digital Assets Holdings.
 
 ### What is a blockchain network?
