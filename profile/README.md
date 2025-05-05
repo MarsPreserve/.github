@@ -1,4 +1,4 @@
-# Welcome to Mars Preserve Research Foundation
+# Welcome to Mars Preserve Research Foundation 🍊
 
 Welcome to The Mars Preserve Research Foundation. Our mission is to manage, build, create, and serve a meaningful purpose by delivering digital products, assets, and NFTs. This project (currently in BETA) focuses on developing AutoGrowBoxes for growing food and other desired herbs. However, space and a structured organization are required before the minting process can be initiated.
 
