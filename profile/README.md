@@ -227,7 +227,7 @@ A software insurance policy is a form of protection that ensures compensation or
 
 # 🌱 AutoGrowBox
 
-The **AutoGrowBox** is an innovative, small, efficient, and accessible automation grow box designed to revolutionize farming and gardening. It provides a controlled environment for plants to thrive, making it easier for farmers, gardeners, and enthusiasts to grow crops efficiently and sustainably.
+The **AutoGrowBox** is an innovative, small, efficient, and accessible automation grow box designed to revolutionize farming and gardening. It provides a controlled environment for plants to thrive, making it easier for farmers, gardeners, and enthusiasts to grow crops efficiently, to be sustainable and automate the grow process leaving the farmer time to plant more crops.Automation Grow Boxes for Mars Preserve Research Foundation ( Creative Commons Share Alike Attribute too ) NOT MIT.
 
 ---
 
