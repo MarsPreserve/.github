@@ -263,4 +263,4 @@ The **AutoGrowBox** is an innovative, small, efficient, and accessible automatio
 
 For more information, about the project and research foundation I am starting, visit [GitHub.com/MarsPreserve](https://github.com/marspreserve) or reach out to Cody Bunnell at @Coderad32 via Github.com
 
-**Made with ❤️ by [Coderad32](https://github.com/Coderad32)** Founder of Mars Preserve Research Foundation all rights reserved 2025-BeyondTheViewport
+**Made with ❤️ by [Coderad32](https://github.com/Coderad32)** Founder of Mars Preserve Research Foundation all rights reserved 2025-BeyondTheViewport Creative Commons Share Alike Attribute Too.
