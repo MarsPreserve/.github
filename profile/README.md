@@ -18,11 +18,11 @@ Thank you, and let me know your thoughts!
 
 
 
-# 🌌 Mars Preserve Token (MPT) Digital Asset Holdings
+# 🌌 Mars Preserve Research Foundation Token (MPRFT) Digital Asset Holdings
 
 ## Overview
 
-The **Mars Preserve Token (MPT)** is a blockchain-based initiative and project seeking to focus on funding and supporting efforts to preserve and explore Mars. 
+The **Mars Preserve Research Foundation Token (MPRFT)** is a blockchain-based initiative and project seeking to focus on funding and supporting efforts to preserve and explore Mars. 
 This token is designed to incentivize contributions to Mars-related projects and create a decentralized ecosystem for collaboration funding the Mars Preserve Research Foundation.
 
 ## Features
@@ -33,9 +33,9 @@ This token is designed to incentivize contributions to Mars-related projects and
 
 ## Tokenomics
 
-- **Token Name**: Mars Preserve Token (unit allocation creation)
+- **Token Name**: Mars Preserve Research Foundation Token (unit allocation creation)
 - **Symbol**: MPT
-- **Total Supply**: 1,000,000,000 MPT requested allocation of units
+- **Total Supply**: 1,000,000,000 MPRFT requested allocation of units
 
 - **Distribution**: Available when project is initialized
   
@@ -46,7 +46,7 @@ This token is designed to incentivize contributions to Mars-related projects and
     
 ### Project Details
 
-The Mars Preserve Token (MPT) project is dedicated to supporting Mars exploration and preservation efforts through blockchain technology. Key details include:
+The Mars Preserve Research Foundation Token (MPRFT) project is dedicated to supporting Mars exploration and preservation efforts through blockchain technology. Key details include:
 
 - **Mission**: To create a decentralized ecosystem that funds Mars-related research and initiatives.
 
