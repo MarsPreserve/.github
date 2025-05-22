@@ -16,7 +16,69 @@ I hope this resonates with you and inspires your own ideas about the vision I ha
 
 Thank you, and let me know your thoughts!
 
+# Mars Preserve Research ( Smart Contract source code )
 
+```
+
+// SPDX-License-Identifier: MIT
+pragma solidity ^0.8.20;
+
+import "@openzeppelin/contracts/token/ERC20/ERC20.sol";
+import "@openzeppelin/contracts/token/ERC20/extensions/ERC20Burnable.sol";
+import "@openzeppelin/contracts/security/Pausable.sol";
+import "@openzeppelin/contracts/access/AccessControl.sol";
+
+contract AdvancedMintableToken is ERC20, ERC20Burnable, Pausable, AccessControl {
+    bytes32 public constant MINTER_ROLE = keccak256("MINTER_ROLE");
+    uint256 public immutable cap;
+
+    event Mint(address indexed to, uint256 amount);
+    event Paused(address account);
+    event Unpaused(address account);
+
+    constructor(
+        string memory name,
+        string memory symbol,
+        uint256 _cap,
+        address admin
+    ) ERC20(name, symbol) {
+        require(_cap > 0, "Cap must be greater than zero");
+        cap = _cap;
+
+        _grantRole(DEFAULT_ADMIN_ROLE, admin);
+        _grantRole(MINTER_ROLE, admin);
+    }
+
+    function mint(address to, uint256 amount) public onlyRole(MINTER_ROLE) whenNotPaused {
+        require(totalSupply() + amount <= cap, "Cap exceeded");
+        _mint(to, amount);
+        emit Mint(to, amount);
+    }
+
+    function pause() public onlyRole(DEFAULT_ADMIN_ROLE) {
+        _pause();
+        emit Paused(msg.sender);
+    }
+
+    function unpause() public onlyRole(DEFAULT_ADMIN_ROLE) {
+        _unpause();
+        emit Unpaused(msg.sender);
+    }
+
+    // Override _beforeTokenTransfer to respect pause state
+    function _beforeTokenTransfer(address from, address to, uint256 amount)
+        internal
+        override
+        whenNotPaused
+    {
+        super._beforeTokenTransfer(from, to, amount);
+    }
+}
+
+
+
+
+```
 
 # 🌌 Mars Preserve Research Foundation Token (MPRFT) Digital Asset Holdings
 
