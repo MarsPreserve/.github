@@ -1,6 +1,6 @@
-# Welcome to Mars Preserve Research Foundation 🍊
+# Welcome to Mars Preserve Research 🍊
 
-Welcome to The Mars Preserve Research Foundation. Our mission is to manage, build, create, and serve a meaningful purpose by delivering digital products, assets, and NFTs. This project (currently in BETA) focuses on developing AutoGrowBoxes for growing food and other desired herbs. However, space and a structured organization are required before the minting process can be initiated.
+Welcome to The Mars Preserve Research. Our mission is to manage, build, create, and serve a meaningful purpose by delivering digital products, assets, and NFTs. This project (currently in BETA) focuses on developing AutoGrowBoxes for growing food and other desired herbs. However, space and a structured organization are required before the minting process can be initiated.
 
 We are building on the Polygon network. If the need arises to switch blockchains, we will reissue the minting process and remove our listings from the current service network.
 
@@ -16,6 +16,39 @@ I hope this resonates with you and inspires your own ideas about the vision I ha
 
 Thank you, and let me know your thoughts!
 
+# 🌱 AutoGrowBox
+
+The **AutoGrowBox** is an innovative, small, efficient, and accessible automation grow box designed to revolutionize farming and gardening. It provides a controlled environment for plants to thrive, making it easier for farmers, gardeners, and enthusiasts to grow crops efficiently, to be sustainable and automate the grow process leaving the farmer time to plant more crops.Automation Grow Boxes for Mars Preserve Research Foundation ( Creative Commons Share Alike Attribute too ) NOT MIT.
+
+---
+
+## 🚀 Features
+
+### Efficient Design
+
+- Compact and space-saving design suitable for small spaces.
+- Energy-efficient components to reduce power consumption.
+- Modular structure for easy assembly and maintenance.
+
+### Accessible Features
+
+- User-friendly interface for monitoring and controlling the grow box.
+- Affordable materials to ensure accessibility for all users.
+- Designed to be lightweight and portable.
+
+### Automate Growth
+
+- Automated watering, lighting, and nutrient delivery systems.
+- Sensors to monitor temperature, humidity, and soil moisture levels.
+- AI-driven algorithms to optimize plant growth cycles.
+
+### Controlled Environment
+
+- Fully enclosed system to protect plants from pests and external factors.
+- Adjustable climate controls for temperature, humidity, and light intensity.
+- Real-time monitoring and alerts for environmental changes.
+
+---
 # Mars Preserve Research ( Smart Contract source code )
 
 ```
@@ -80,11 +113,12 @@ contract AdvancedMintableToken is ERC20, ERC20Burnable, Pausable, AccessControl 
 
 ```
 
-# 🌌 Mars Preserve Research Foundation Token (MPRFT) Digital Asset Holdings
+# 🌌 Mars Preserve Research Token (MPRT) Digital Asset
 
 ## Overview
 
-The **Mars Preserve Research Foundation Token (MPRFT)** is a blockchain-based initiative and project seeking to focus on funding and supporting efforts to preserve and explore Mars. 
+The **Mars Preserve Research Token (MPRT)** is a blockchain-based initiative and project seeking to focus on funding and supporting efforts to preserve and explore Mars. 
+
 This token is designed to incentivize contributions to Mars-related projects and create a decentralized ecosystem for collaboration funding the Mars Preserve Research Foundation.
 
 ## Features
@@ -286,41 +320,6 @@ A software insurance policy is a form of protection that ensures compensation or
 - **Service Downtime**: Compensation for losses due to software outages or failures.
 
 - **Liability Coverage**: Protection against claims arising from software defects or misuse.
-
-
-# 🌱 AutoGrowBox
-
-The **AutoGrowBox** is an innovative, small, efficient, and accessible automation grow box designed to revolutionize farming and gardening. It provides a controlled environment for plants to thrive, making it easier for farmers, gardeners, and enthusiasts to grow crops efficiently, to be sustainable and automate the grow process leaving the farmer time to plant more crops.Automation Grow Boxes for Mars Preserve Research Foundation ( Creative Commons Share Alike Attribute too ) NOT MIT.
-
----
-
-## 🚀 Features
-
-### Efficient Design
-
-- Compact and space-saving design suitable for small spaces.
-- Energy-efficient components to reduce power consumption.
-- Modular structure for easy assembly and maintenance.
-
-### Accessible Features
-
-- User-friendly interface for monitoring and controlling the grow box.
-- Affordable materials to ensure accessibility for all users.
-- Designed to be lightweight and portable.
-
-### Automate Growth
-
-- Automated watering, lighting, and nutrient delivery systems.
-- Sensors to monitor temperature, humidity, and soil moisture levels.
-- AI-driven algorithms to optimize plant growth cycles.
-
-### Controlled Environment
-
-- Fully enclosed system to protect plants from pests and external factors.
-- Adjustable climate controls for temperature, humidity, and light intensity.
-- Real-time monitoring and alerts for environmental changes.
-
----
 
 ## Contact
 
