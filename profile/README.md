@@ -8,17 +8,19 @@ These new Digital Assets and NFTs will allow you to stay updated on the project'
 
 Why use the Polygon network? Because their platform makes it easy to mint tokens on a blockchain with lower gas fees, which is essential for cost efficiency.
 
-This project requires time, effort, and patience. For me, it’s about learning from my mistakes and growing through the process. I believe I am on the right path. As the project progresses and the foundation is established, I aim to create a platform where people can share, collaborate, and develop their own projects in alignment with our brand: The Mars Preserve Research Foundation.
+This project requires time, effort, and patience. For me, it’s about learning from my mistakes and growing through the process. I believe I am on the right path. As the project progresses and the orginization is established, I aim to create a platform where people can share, collaborate, and develop their own projects in alignment with our brand: The Mars Preserve Research.
 
 If you have any questions, comments, or suggestions, or if you’re interested in this project or my profile, I’d be happy to discuss these topics further.
 
-I hope this resonates with you and inspires your own ideas about the vision I have for The Mars Preserve Research Foundation and the AutoGrowBoxes project.
+I hope this resonates with you and inspires your own ideas about the vision I have for The Mars Preserve Research and the Auto Grow Box project.
 
 Thank you, and let me know your thoughts!
 
-# 🌱 AutoGrowBox
+# 🌱 Auto Grow Box
 
-The **AutoGrowBox** is an innovative, small, efficient, and accessible automation grow box designed to revolutionize farming and gardening. It provides a controlled environment for plants to thrive, making it easier for farmers, gardeners, and enthusiasts to grow crops efficiently, to be sustainable and automate the grow process leaving the farmer time to plant more crops.Automation Grow Boxes for Mars Preserve Research Foundation ( Creative Commons Share Alike Attribute too ) NOT MIT.
+The **AutoGrowBox** is an innovative, small, efficient, and accessible automation grow box designed to revolutionize farming and gardening. It provides a controlled environment for plants to thrive, making it easier for farmers, gardeners, and enthusiasts to grow crops efficiently, to be sustainable and automate the grow process leaving the farmer time to plant more crops. Automation Grow Boxes for Mars Preserve Research.
+
+( Creative Commons Share Alike Attribute too ) NOT MIT.
 
 ---
 
@@ -129,11 +131,12 @@ This token is designed to incentivize contributions to Mars-related projects and
 
 ## Tokenomics
 
-- **Token Name**: Mars Preserve Research Foundation Token (unit allocation creation)
-- **Symbol**: MPT
-- **Total Supply**: 1,000,000,000 MPRFT requested allocation of units
+- **Token Name**: Mars Preserve Research Token
+- (unit allocation)
+- **Symbol**: MPRT
+- **Total Supply**: 1,000,000,000 MPRFT [allocation of units]
 
-- **Distribution**: Available when project is initialized
+- **Distribution**: Available when project is [initialized]
   
   - 25% for public sale blockchain public network utility 
   - 25% for private sale peer 2 peer
@@ -278,8 +281,8 @@ If you're building or using blockchain applications, exploring Layer 2 solutions
    - create new sponsorship stickers. (NFT printables)
 
 3. **Phase 3**: DIY and Expansion of Project
-    - Build AutoGrowBox After Foundation is built.
-    - Sell AutoGrowBox Brand Under Mars Preserve Research Foundation.
+    - Build AutoGrowBox After Orginization is built.
+    - Sell AutoGrowBox Brand Under Mars Preserve Research.
 
 ## FAQ
 
