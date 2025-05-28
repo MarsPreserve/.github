@@ -142,7 +142,7 @@ This token is designed to incentivize contributions to Mars-related projects and
     
 ### Project Details
 
-The Mars Preserve Research Foundation Token (MPRFT) project is dedicated to supporting Mars exploration and preservation efforts through blockchain technology. Key details include:
+The Mars Preserve Research Token (MPRT) project is dedicated to supporting Mars exploration and preservation efforts through blockchain technology. Key details include:
 
 - **Mission**: To create a decentralized ecosystem that funds Mars-related research and initiatives.
 
@@ -323,6 +323,6 @@ A software insurance policy is a form of protection that ensures compensation or
 
 ## Contact
 
-For more information, about the project and research foundation I am starting, visit [GitHub.com/MarsPreserve](https://github.com/marspreserve) or reach out to Cody Bunnell at @Coderad32 via Github.com
+For more information, about the project and research I am starting, visit [GitHub.com/MarsPreserve](https://github.com/marspreserve) or reach out to Cody Bunnell at @Coderad32 via Github.com
 
-**Made with ❤️ by [Coderad32](https://github.com/Coderad32)** Founder of Mars Preserve Research Foundation all rights reserved 2025-BeyondTheViewport Creative Commons Share Alike Attribute Too.
+**Made with ❤️ by [Coderad32](https://github.com/Coderad32)** Founder of Mars Preserve Research All Rights Reserved 2025-BeyondTheViewport Creative Commons Share Alike Attribute Too.
