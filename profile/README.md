@@ -55,58 +55,71 @@ The **AutoGrowBox** is an innovative, small, efficient, and accessible automatio
 
 ```
 
+Stable coin
+
 // SPDX-License-Identifier: MIT
-pragma solidity ^0.8.20;
+pragma solidity ^0.8.16;
 
 import "@openzeppelin/contracts/token/ERC20/ERC20.sol";
-import "@openzeppelin/contracts/token/ERC20/extensions/ERC20Burnable.sol";
-import "@openzeppelin/contracts/security/Pausable.sol";
-import "@openzeppelin/contracts/access/AccessControl.sol";
+import "@openzeppelin/contracts/access/Ownable.sol";
 
-contract AdvancedMintableToken is ERC20, ERC20Burnable, Pausable, AccessControl {
-    bytes32 public constant MINTER_ROLE = keccak256("MINTER_ROLE");
-    uint256 public immutable cap;
+contract StableCoin is ERC20, Ownable {
+    address public minter;
 
+    // Events for minting and burning
     event Mint(address indexed to, uint256 amount);
-    event Paused(address account);
-    event Unpaused(address account);
+    event Burn(address indexed from, uint256 amount);
+    event MinterChanged(address indexed newMinter);
 
-    constructor(
-        string memory name,
-        string memory symbol,
-        uint256 _cap,
-        address admin
-    ) ERC20(name, symbol) {
-        require(_cap > 0, "Cap must be greater than zero");
-        cap = _cap;
-
-        _grantRole(DEFAULT_ADMIN_ROLE, admin);
-        _grantRole(MINTER_ROLE, admin);
+    constructor() ERC20("USD Stablecoin", "USDS") Ownable(msg.sender) {
+        minter = msg.sender; // Owner is initial minter
     }
 
-    function mint(address to, uint256 amount) public onlyRole(MINTER_ROLE) whenNotPaused {
-        require(totalSupply() + amount <= cap, "Cap exceeded");
+    // Modifier to restrict functions to minter
+    modifier onlyMinter() {
+        require(msg.sender == minter, "Caller is not the minter");
+        _;
+    }
+
+    // Mint new tokens (only minter)
+    function mint(address to, uint256 amount) external onlyMinter {
+        require(to != address(0), "Invalid address");
         _mint(to, amount);
         emit Mint(to, amount);
     }
 
-    function pause() public onlyRole(DEFAULT_ADMIN_ROLE) {
-        _pause();
-        emit Paused(msg.sender);
+    // Burn tokens (only minter)
+    function burn(address from, uint256 amount) external onlyMinter {
+        require(from != address(0), "Invalid address");
+        _burn(from, amount);
+        emit Burn(from, amount);
     }
 
-    function unpause() public onlyRole(DEFAULT_ADMIN_ROLE) {
-        _unpause();
-        emit Unpaused(msg.sender);
+    // Set new minter (only owner)
+    function setMinter(address newMinter) external onlyOwner {
+        require(newMinter != address(0), "Invalid address");
+        minter = newMinter;
+        emit MinterChanged(newMinter);
     }
 
-    // Override _beforeTokenTransfer to respect pause state
-    function _beforeTokenTransfer(address from, address to, uint256 amount)
-        internal
-        override
-        whenNotPaused
-    {
-        super._beforeTokenTransfer(from, to, amount);
+    // Optional: Pause transfers in emergencies
+    bool public paused;
+    modifier whenNotPaused() {
+        require(!paused, "Contract is paused");
+        _;
+    }
+
+    function pause() external onlyOwner {
+        paused = true;
+    }
+
+    function unpause() external onlyOwner {
+        paused = false;
+    }
+
+    // Override transfer to include pause check
+    function transfer(address to, uint256 amount) public override whenNotPaused returns (bool) {
+        return super.transfer(to, amount);
     }
 }
 
