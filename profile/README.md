@@ -1,20 +1,14 @@
-# Welcome to Mars Preserve Research 🍊
+Welcome to The Mars Preserve Research
+Currently in BETA, we are developing AutoGrowBoxes for sustainable food and herb cultivation. By leveraging the Polygon network for its efficiency and low fees, we are creating a foundation of digital assets and NFTs to fund and track our progress.
 
-Welcome to The Mars Preserve Research. Our mission is to manage, build, create, and serve a meaningful purpose by delivering digital products, assets, and NFTs. This project (currently in BETA) focuses on developing AutoGrowBoxes for growing food and other desired herbs. However, space and a structured organization are required before the minting process can be initiated.
+Our Goals
+Develop: High-quality automated growing solutions.
 
-We are building on the Polygon network. If the need arises to switch blockchains, we will reissue the minting process and remove our listings from the current service network.
+Scale: Build a legitimate, independent organization.
 
-These new Digital Assets and NFTs will allow you to stay updated on the project's progress. I plan to work on this project independently, raising capital and minting new assets under my own brand and organization. This approach will provide legitimacy and a strong foundation for the project.
+Collaborate: Create a platform for community-driven innovation.
 
-Why use the Polygon network? Because their platform makes it easy to mint tokens on a blockchain with lower gas fees, which is essential for cost efficiency.
-
-This project requires time, effort, and patience. For me, it’s about learning from my mistakes and growing through the process. I believe I am on the right path. As the project progresses and the orginization is established, I aim to create a platform where people can share, collaborate, and develop their own projects in alignment with our brand: The Mars Preserve Research.
-
-If you have any questions, comments, or suggestions, or if you’re interested in this project or my profile, I’d be happy to discuss these topics further.
-
-I hope this resonates with you and inspires your own ideas about the vision I have for The Mars Preserve Research and the Auto Grow Box project.
-
-Thank you, and let me know your thoughts!
+This project is a journey of growth and learning. We appreciate your patience as we build the infrastructure needed to bring this vision to life.
 
 # 🌱 Auto Grow Box
 
