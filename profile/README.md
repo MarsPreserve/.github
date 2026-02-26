@@ -1,12 +1,12 @@
-Welcome to The Mars Preserve Research
+## Welcome to The Mars Preserve Research
+
 Currently in BETA, we are developing AutoGrowBoxes for sustainable food and herb cultivation. By leveraging the Polygon network for its efficiency and low fees, we are creating a foundation of digital assets and NFTs to fund and track our progress.
 
-Our Goals
-Develop: High-quality automated growing solutions.
+## Our Goals
 
-Scale: Build a legitimate, independent organization.
-
-Collaborate: Create a platform for community-driven innovation.
+- Develop: High-quality automated growing solutions.
+- Scale: Build a legitimate, independent organization.
+- Collaborate: Create a platform for community-driven innovation.
 
 This project is a journey of growth and learning. We appreciate your patience as we build the infrastructure needed to bring this vision to life.
 
